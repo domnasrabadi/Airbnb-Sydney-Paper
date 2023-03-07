@@ -21,7 +21,7 @@
 * Click through rates or other digital data collected from the website
     * expand out to number of photos, number of HD photos
     * wishlist additions
-* Locality availibility 
+* Locality availibility  
 * Other papers to analyse:
     * https://github.com/krishnaik06/Advanced-House-Price-Prediction-/blob/master/Feature%20Engineering.ipynb 
     * https://www.researchgate.net/publication/350616868_Airbnb_listings'_performance_determinants_and_predictive_models
