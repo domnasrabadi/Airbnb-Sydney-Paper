@@ -6,6 +6,7 @@
 4. removal of outliers
 5. what is a suitable number of plots to include? do papers have appendix for extra?
     * some very interesting plots such as residual plots for each model could show the strengths and weaknesses of each and the different errors theyre prone to
+5. Will the text in parts of the paper change at all e.g. when explaining algorithms etc or will we keep some the same/reworded
 
 
 # Code Experiments
