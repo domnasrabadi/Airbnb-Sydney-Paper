@@ -7,6 +7,7 @@
 5. what is a suitable number of plots to include? do papers have appendix for extra?
     * some very interesting plots such as residual plots for each model could show the strengths and weaknesses of each and the different errors theyre prone to
 5. Will the text in parts of the paper change at all e.g. when explaining algorithms etc or will we keep some the same/reworded
+6. In Car Price paper, CV was not used to estimate train set performance, it was fit then predicted on the whole set. Confirm this
 
 # New Features to test
 * Link all customer reviews via extra datasets to perform NLP on that and join to this dataset
