@@ -11,6 +11,7 @@
 
 # New Features to test
 * Link all customer reviews via extra datasets to perform NLP on that and join to this dataset
+* Build or use transfer learning of a CV algorithm for listing photos 
 * Get real estate data for suburbs via another source and compare to median/average or even CoreLogic price estimate
     * population density, average age and family type, new builds or infrastructure in locality
 * knn pricing of closest 3 homes
